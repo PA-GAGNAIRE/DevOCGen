@@ -9,3 +9,8 @@ seaborn>=0.11.0
 scipy>=1.6.0
 ipywidgets>=7.6.0
 jupyter>=1.0.0
+IPython.display
+itertools
+collections
+warnings
+
